@@ -1,0 +1,12 @@
+GEM
+  remote: http://localhost:8081/repository/gems/
+  specs:
+    rubocop (1.28.1)
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubocop (= 1.28.1)
+
+BUNDLED WITH
+   2.3.14
