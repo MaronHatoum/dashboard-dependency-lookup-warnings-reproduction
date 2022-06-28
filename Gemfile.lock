@@ -2,13 +2,15 @@ GEM
   remote: http://localhost:8081/repository/gems/
   specs:
     rubocop (1.28.1)
-    coffee-script-source (1.12.2)
+    coffee-script-source (1.12.1)
+    concurrent-ruby (1.1.9)
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rubocop (= 1.28.1)
-  coffee-script-source (= 1.12.2)
+  coffee-script-source (= 1.12.1)
+  concurrent-ruby (= 1.1.9)
 
 BUNDLED WITH
    2.3.14
